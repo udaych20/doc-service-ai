@@ -1,0 +1,9 @@
+document-ai:
+  project-id: your-project-id
+  location: us
+  processor-id: your-processor-id
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
